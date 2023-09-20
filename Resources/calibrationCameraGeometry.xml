@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cameraGeometry_normal>
+	<alpha1>-51.49900970412974</alpha1>
+	<alpha2>-180.5033361517734</alpha2>
+	<alpha3>-179.7930701936977</alpha3>
+	<d1>150.8948667003555</d1>
+	<d2>150.4229090217776</d2>
+	<d3>129.827215056275</d3>
+	<x0>304.7524029511487</x0>
+	<y0>-48.26835242928908</y0>
+	<cameraAngle>0.6609400752842632</cameraAngle>
+</cameraGeometry_normal>
+<cameraGeometry_inverse>
+	<alpha1>-51.54113183975081</alpha1>
+	<alpha2>-180.3348120108079</alpha2>
+	<alpha3>-180.0112764731593</alpha3>
+	<d1>150.7187778852844</d1>
+	<d2>150.3606658146398</d2>
+	<d3>129.8706918966389</d3>
+	<x0>304.6911622727355</x0>
+	<y0>-48.38266757413034</y0>
+	<cameraAngle>0.8090874046663078</cameraAngle>
+</cameraGeometry_inverse>

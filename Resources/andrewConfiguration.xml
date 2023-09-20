@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<andrewConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>andrew399</name>
+	<SN>420.200.0399</SN>
+	<andrewFamily>Rainin</andrewFamily>
+	<andrewModel>1000R</andrewModel>
+	<thumbVersion>3</thumbVersion>
+	<spacers>2</spacers>
+	<ejectorPin>3</ejectorPin>
+	<camera>2</camera>
+	<handLight>2</handLight>
+	<twisterLight>2</twisterLight>
+	<PCBversion>11</PCBversion>
+	<rubberPad>1</rubberPad>
+	<twisterVersion>2</twisterVersion>
+	<opticalNest>2</opticalNest>
+	<andrewSize>XL</andrewSize>
+	<dominoBlock>
+		<info>
+			<dominoVersion>2</dominoVersion>
+		</info>
+	</dominoBlock>
+	<pipetteRack>5</pipetteRack>
+</andrewConfiguration>

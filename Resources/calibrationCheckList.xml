@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkList>
+	<initCalibration>0</initCalibration>
+	<verticalPosition>1</verticalPosition>
+	<birdsEyeView>0</birdsEyeView>
+	<handCameraPrincipalPoint>1</handCameraPrincipalPoint>
+	<handCameraFocusOffset>1</handCameraFocusOffset>
+	<cameraGeometry>1</cameraGeometry>
+	<barcodeCalibration>1</barcodeCalibration>
+	<roFactor>1</roFactor>
+	<pipetteGrabbing>1</pipetteGrabbing>
+	<twisterPosition>1</twisterPosition>
+	<scaleFactorOCR>1</scaleFactorOCR>
+	<pipetteROI>1</pipetteROI>
+	<pipetteGeometry>1</pipetteGeometry>
+	<opticalNest>1</opticalNest>
+	<pipetteOffset>1</pipetteOffset>
+	<tipGeometryOffset>1</tipGeometryOffset>
+	<secondStopCalibration>1</secondStopCalibration>
+	<finePipetteGeometry>1</finePipetteGeometry>
+	<armDistortion>1</armDistortion>
+	<instrumentVerticalOffset>1</instrumentVerticalOffset>
+	<tipGeometry>1</tipGeometry>
+	<calibrationForCaliBro>1</calibrationForCaliBro>
+	<multiDispensingCreate>1</multiDispensingCreate>
+	<multiDispensing>1</multiDispensing>
+</checkList>

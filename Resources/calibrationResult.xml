@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fitResult>
+	<handCameraPrincipalPoint>24.04554876027693</handCameraPrincipalPoint>
+	<cameraGeometry>35.66545802861118</cameraGeometry>
+	<barcodeCalibration>5.619533210389696</barcodeCalibration>
+	<roFactor>14.27299131939448</roFactor>
+	<cameraGeometryOther>39.20311382107652</cameraGeometryOther>
+	<type>inverse</type>
+</fitResult>
